@@ -1,14 +1,36 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package paquetedos;
 
-/**
- *
- * @author reroes
- */
-public class Propietario {
+import java.io.Serializable;
+
+public class Propietario implements Serializable{
+    private String nombre;
+    private String apellido;
+    private String ident;
     
+    public Propietario(String n, String ap, String id){
+        nombre = n;
+        apellido = ap;
+        ident = id;
+        
+    }
+    public void establecerNombre(String p){
+        nombre = p;
+    }
+    public void establecerApellido(String p){
+        apellido = p;
+    }
+    public void establecerIdentificacion(String p){
+        ident = p;
+    }
+    
+    public String obtenerNombre(){
+        return nombre;
+    }  
+    public String obtenerApellido(){
+        return apellido;
+    }
+    public String obtenerIdentificacion(){
+        return ident;
+    }  
 }
