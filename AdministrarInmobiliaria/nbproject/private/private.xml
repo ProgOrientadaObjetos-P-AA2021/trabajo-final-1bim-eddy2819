@@ -3,42 +3,26 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetecuatro/ciudadCasa.java</file>
-            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetecuatro/EscrituraArchivoSecuencial.java</file>
-            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetetres/LecturaArchivoSecuencial.java</file>
-            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paqueteuno/EscrituraArchivoSecuencial.java</file>
-            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paqueteuno/EscrituraArchivoSecuencial2.java</file>
+            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paqueteuno/LecturaArchivoDepartamento.java</file>
+            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetetres/LecturaArchivoUbicacion.java</file>
             <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetetres/Ubicacion.java</file>
-            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetedos/EscrituraArchivoSecuencial.java</file>
-            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetecinco/EscrituraConstructoraC.java</file>
             <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetedos/Propietario.java</file>
-            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetetres/EscrituraArchivoSecuencial.java</file>
-            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paqueteuno/LecturaArchivoSecuencial.java</file>
-            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetetres/Ejecutor2.java</file>
-            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paqueteuno/Ejecutor.java</file>
-            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetedos/propietarioCasa.java</file>
-            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetetres/Ejecutor.java</file>
-            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetedos/LecturaArchivoSecuencial.java</file>
-            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetedos/Ejecutor.java</file>
-            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetetres/LecturaARchivoSecuencial2.java</file>
-            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paqueteuno/LecturaArchivoSecuencial2.java</file>
-            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetecinco/constructoraCasa.java</file>
-            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetecinco/LecturaArchivoSecuencial.java</file>
-            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetetres/EscrituraArchivoSecuencial2.java</file>
-            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetecuatro/LecturaArchivoSecuencial.java</file>
             <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetecuatro/Ciudad.java</file>
-            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetedos/LecturaCasa.java</file>
             <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetecuatro/LecturaDciudad.java</file>
-            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetetres/ubicacionCasa.java</file>
-            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetecuatro/Ejecutor.java</file>
-            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetecinco/EscritutaArchivoSecuencial.java</file>
-            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetedos/EscrituraCasa.java</file>
-            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetecinco/LecturaConstructoraC.java</file>
+            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paqueteuno/Ejecutor.java</file>
+            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetecinco/EscritutaArchivoConstructora.java</file>
+            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paqueteuno/EscrituraArchivoDepartamento.java</file>
+            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetecinco/LecturaArchivoConstructora.java</file>
             <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetecuatro/EscrituraDciudad.java</file>
             <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetecinco/Constructora.java</file>
+            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetedos/LecturaArchivoPropietario.java</file>
+            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paqueteuno/EscrituraArchivoCasa.java</file>
             <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paqueteseis/Departamento.java</file>
+            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetetres/EscrituraArchivoUbicacion.java</file>
+            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paqueteuno/LecturaArchivoCasa.java</file>
             <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paqueteseis/Casa.java</file>
-            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetecinco/Ejecutor.java</file>
+            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/src/paquetedos/EscrituraArchivoPropietario.java</file>
+            <file>file:/C:/Users/USUARIO/trabajo-final-1bim-eddy2819/AdministrarInmobiliaria/Propietarios.txt</file>
         </group>
     </open-files>
 </project-private>
